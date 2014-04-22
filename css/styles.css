@@ -1,12 +1,31 @@
 /* Your Website Styles */
-img {
-	width: 400px;
+
+body {
+	
+	color: #696969;
+	background: #bd94bd;
+
 }
 
-h1 {
-	color: cornflowerblue;
-	text-shadow: 10px 10px 10px black
+h1 {font-family: 'Oleo Script Swash Caps', 'cursive';
+	color: #ffffff;
+	font-size: 3em;
+	letter-spacing: .5px;
+	padding-left: 20px;
+	margin-bottom: -20px;
 }
+
+img {
+	width: 350px;
+	padding: 20px 20px;
+}
+
+
+
+
+h3{
+	color: #FFFFFF;
+font-family: 'Yanone Kaffeesatz', 'sans-serif';}
 
 /* Show Grid */
 .showgrid {
